@@ -53,11 +53,7 @@
     "@mui/icons-material": "^5.14.20",
     "@mui/material": "^5.14.20",
     "@mui/x-date-pickers": "^5.0.20",
-<<<<<<< Updated upstream
     "@peaq-safe-global/safe-deployments": "^1.37.4",
-=======
-    "@peaq-safe-global/safe-deployments": "^1.37.3",
->>>>>>> Stashed changes
     "@reduxjs/toolkit": "^1.9.5",
     "@safe-global/api-kit": "^2.3.2",
     "@safe-global/protocol-kit": "^3.1.1",
