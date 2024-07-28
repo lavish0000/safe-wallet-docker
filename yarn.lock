@@ -3957,10 +3957,10 @@
     "@parcel/watcher-win32-ia32" "2.3.0"
     "@parcel/watcher-win32-x64" "2.3.0"
 
-"@peaq-safe-global/safe-deployments@^1.37.3":
-  version "1.37.3"
-  resolved "https://registry.yarnpkg.com/@peaq-safe-global/safe-deployments/-/safe-deployments-1.37.3.tgz#7002bc50e133a87a73e9f338a303778f43f78529"
-  integrity sha512-X7HJiztr4WRZsPXbiP+FNYLCiA1seKEka9nMOMp6HKnqalOeqBx5hsAAu6DZ4grCpN1GbLeYZ7d76Lk4XQ7x2g==
+"@peaq-safe-global/safe-deployments@^1.37.4":
+  version "1.37.4"
+  resolved "https://registry.yarnpkg.com/@peaq-safe-global/safe-deployments/-/safe-deployments-1.37.4.tgz#813dadca07b861781ddaffaa2033b9465c8c156e"
+  integrity sha512-5/FbqvPOIVAL6d9nJBAKchswLzLkmS7Xlc8w3tjHN9GyDz97SnJJA5++hd1aumOhUGQQUAXA69Zuwa0YCz+uGw==
   dependencies:
     semver "^7.6.2"
 
