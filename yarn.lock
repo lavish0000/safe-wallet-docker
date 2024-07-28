@@ -3957,6 +3957,13 @@
     "@parcel/watcher-win32-ia32" "2.3.0"
     "@parcel/watcher-win32-x64" "2.3.0"
 
+"@peaq-safe-global/safe-deployments@^1.37.3":
+  version "1.37.3"
+  resolved "https://registry.yarnpkg.com/@peaq-safe-global/safe-deployments/-/safe-deployments-1.37.3.tgz#7002bc50e133a87a73e9f338a303778f43f78529"
+  integrity sha512-X7HJiztr4WRZsPXbiP+FNYLCiA1seKEka9nMOMp6HKnqalOeqBx5hsAAu6DZ4grCpN1GbLeYZ7d76Lk4XQ7x2g==
+  dependencies:
+    semver "^7.6.2"
+
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
@@ -16700,6 +16707,11 @@ semver@^7.3.4, semver@^7.3.5, semver@^7.3.7, semver@^7.3.8, semver@^7.5.2, semve
   integrity sha512-EnwXhrlwXMk9gKu5/flx5sv/an57AkRplG3hTK68W7FRDN+k+OWBj65M7719OkA82XLBxrcX0KSHj+X5COhOVg==
   dependencies:
     lru-cache "^6.0.0"
+
+semver@^7.6.2:
+  version "7.6.3"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.3.tgz#980f7b5550bc175fb4dc09403085627f9eb33143"
+  integrity sha512-oVekP1cKtI+CTDvHWYFUcMtsK/00wmAEfyqKfNdARm8u1wNVhSgaX7A8d4UuIlUI5e84iEwOhs7ZPYRmzU9U6A==
 
 send@0.18.0:
   version "0.18.0"

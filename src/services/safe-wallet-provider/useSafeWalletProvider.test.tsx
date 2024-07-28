@@ -13,7 +13,7 @@ import { makeStore } from '@/store'
 import * as messages from '@/utils/safe-messages'
 import { faker } from '@faker-js/faker'
 import { Interface } from 'ethers'
-import { getCreateCallDeployment } from '@safe-global/safe-deployments'
+import { getCreateCallDeployment } from '@peaq-safe-global/safe-deployments'
 
 const appInfo = {
   id: 1,

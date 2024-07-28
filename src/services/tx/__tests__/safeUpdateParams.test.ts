@@ -3,7 +3,7 @@ import {
   getFallbackHandlerDeployment,
   getSafeL2SingletonDeployment,
   getSafeSingletonDeployment,
-} from '@safe-global/safe-deployments'
+} from '@peaq-safe-global/safe-deployments'
 import type { ChainInfo, SafeInfo } from '@safe-global/safe-gateway-typescript-sdk'
 import { Interface, BrowserProvider, type JsonRpcProvider } from 'ethers'
 import { createUpdateSafeTxs } from '../safeUpdateParams'
